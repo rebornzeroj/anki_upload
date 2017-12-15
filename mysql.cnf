@@ -1,0 +1,6 @@
+[client]
+database = anki
+user = root
+password = bla2me
+host = 115.29.50.42
+default - character - set = utf8

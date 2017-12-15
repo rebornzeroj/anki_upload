@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0abf934b-3ac1-4d8a-acdd-dc8d6729c660" name="aliyun" url="http://115.29.50.42">
+        <fileTransfer host="115.29.50.42" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/anki_upload" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
